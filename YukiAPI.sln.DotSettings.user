@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=337d0502_002D767e_002D4152_002D96d6_002D3ad1b4b3ad42/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetBlogPostById_ReturnsBlogPost_WhenBlogPostExists #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EACB6D8B-4979-4BE5-8DCB-C8705D4A4747::net8.0::YukiAPI.Tests.BlogPostControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EACB6D8B-4979-4BE5-8DCB-C8705D4A4747::net8.0::YukiAPI.Tests.BlogServiceTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f5c8027e_002D6b5a_002D4b40_002D89e8_002D6e826487c4f5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetBlogPostById_ReturnsBlogPost_WhenBlogPostExists" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EACB6D8B-4979-4BE5-8DCB-C8705D4A4747::net8.0::YukiAPI.Tests.BlogPostServiceTests.GetBlogPostById_ReturnsBlogPost_WhenBlogPostExists&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
